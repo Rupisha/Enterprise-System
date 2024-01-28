@@ -1,1 +1,1 @@
-This python program shows hoe to create a default function of key for 2D list.
+This python program shows how to create a default function of key for 2D list.
